@@ -16,10 +16,10 @@ Any individual is able to interact with the dapp, however, you need to download 
 
 ## How to set it up?
 Basic setup (run the following commands in the order described below)
- 1.install git
-2.clone Portrait-Online-Marketplace:
+ 1. install git
+2. clone Portrait-Online-Marketplace:
 git clone https://github.com/rose-create/Portrait-Online-Marketplace
-3.npm install node
-4.npm install -g ganache-cli
-5.npm install -g truffle
-6.install google chrome and install the metamask extension
+3. npm install node
+4. npm install -g ganache-cli
+5. npm install -g truffle
+6. install google chrome and install the metamask extension
